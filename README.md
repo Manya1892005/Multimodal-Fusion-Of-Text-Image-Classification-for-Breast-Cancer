@@ -58,3 +58,5 @@ python app.py
 
 ## 📄 License
 This project is open-source under the [MIT License](LICENSE).
+## 📥 Model Weights
+  Download the trained model from [Google Drive ](https://drive.google.com/file/d/1-dPQQjhZsoakef9ZLkaBBa1yCHNJ_iT3/view?usp=drive_link)
